@@ -4,7 +4,31 @@ body{
 
 #idk{
     background-color: rgba(255, 255, 255, 50%);
-    text-align: justify;
     color: black;
-    font-size: ;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    border: 1px solid black;
+    color: blue;
+}
+
+#forras{
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#forras:hover{
+    color: red;
+    border: 2px solid black;
+}
+
+#szoveg:hover{
+    font-weight: bold;
 }
